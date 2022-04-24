@@ -1,1 +1,13 @@
+Hardware Components Required:
+1.ATMEGA32 Microcontroller
+2.power supply(5v)
+3.AVR-SIP PROGRAMMER
+4.JHD_162ALCD(16*2LCD)
+5.100 micro farad capacitor
+6.100nF capacitor
+7.1Kohm resistor(2 pieces)
+8.touch keypad module
 
+Software:
+Atmel studio 6.1 or Atmel studio 6.2
+progisp or flash magic
